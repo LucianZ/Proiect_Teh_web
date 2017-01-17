@@ -1,4 +1,4 @@
-<b/><i/><u/>Dota2 SinglePageAplication
+<b/><i/><u>Dota2 SinglePageAplication</u>
 
 <b />Prezentare:
 
