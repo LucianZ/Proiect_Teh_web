@@ -1,6 +1,6 @@
 Dota2 SinglePageAplication
 
-Prezentare:
+<b />Prezentare:
 
 
 
