@@ -1,6 +1,9 @@
-<b/><i/><u>Dota2 SinglePageAplication</u>
+<b/><i/>Dota2 SinglePageAplication
 
-<b />Prezentare:
+<b />Presentation:
+The app is designed to atract Dota2 player that want to start playing with other players based on theyr best Heores.
+
+
 
 
 
